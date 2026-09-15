@@ -1,0 +1,7 @@
+`.gitignore`:
+```text
+*.log
+.DS_Store
+.idea/
+.vscode/
+.env
